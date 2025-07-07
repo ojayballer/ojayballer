@@ -38,3 +38,9 @@ I'm a Computer Science student at the University of Lagos, passionate about Arti
 ---
 
 *“Making life easier with machine learning, one project at a time.”*
+---
+
+## 📊 GitHub Stats
+
+![Omojire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojayballer&show_icons=true&theme=default)
+
