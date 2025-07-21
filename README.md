@@ -27,15 +27,18 @@ I'm a Computer Science student at the University of Lagos, passionate about Arti
 
 - **Languages:** Python, Java, SQL  
 - **ML Tools:** scikit-learn, pandas, NumPy, Jupyter, Flask  
-- **Interests:** Regression, NLP, model deployment
+- **Interests:** Regression, NLP,classification, neural networks
 
 ---
 
 ## Contact
 
 📧 omojiremurewa@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omojire-kuseju-159159357/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ojayballer)
 
----
+
+--
 
 *“Making life easier with machine learning, one project at a time.”*
 ---
