@@ -57,8 +57,7 @@ End-to-end ML pipeline to predict housing prices.
 Classifies 1600+ waste images (plastic, paper, glass, metal) using traditional ML.  
 - Image preprocessing (grayscale, flattening)  
 - Logistic Regression & SVM models  
-- Work in progress → planning deep learning extension  
-🔗 [GitHub Repo](https://github.com/ojayballer/trash-classifier)  
+🔗 [GitHub Repo](https://github.com/ojayballer/trash-image-classifier)  
 
 ---
 
