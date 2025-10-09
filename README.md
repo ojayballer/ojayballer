@@ -10,10 +10,12 @@
 I learn best by building. Over the past year, I’ve been applying ML fundamentals and core software engineering to real-world projects — from **predicting housing prices** to **managing student attendance systems**.  
 
 - 🔭 Currently working on: **Trash Image Classifier** (1600+ images, classical ML pipeline)  
-- ✅ Built:  
+- ✅ Built:
+
+- •  **Waste management system**
   • **Bengaluru House Price Predictor** (end-to-end regression + Flask app)  
   • **Attendance Management System** (Java Swing + MySQL backend)  
-- 🌱 Learning: **Deep Learning basics (CNNs, RNNs, NLP)**  
+- 🌱 Learning: **Deep Learning and LLMs (CNNs, RNNs, NLP,YOLOv4,bert,..)**  
 - 🎯 Goal: Grow into an **ML Engineer/Researcher**, contributing to impactful AI-driven projects  
 
 ---
@@ -28,7 +30,7 @@ I learn best by building. Over the past year, I’ve been applying ML fundamenta
 **Software Engineering**  
 - Java (OOP, Swing for GUIs, JDBC for databases)  
 - SQL (MySQL, SQLite)  
-- Flask, Streamlit (for ML app deployment)  
+- Flask, Streamlit (for ML app deployment),Render
 
 **Other Tools**  
 - Git/GitHub  
