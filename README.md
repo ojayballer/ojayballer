@@ -7,11 +7,9 @@
 ---
 
 ## 🔍 About Me  
-I learn best by building. Over the past year, I’ve been applying ML fundamentals and core software engineering to real-world projects — from **predicting housing prices** to **managing student attendance systems**.  
+I learn best by building. here are some of the projects I have built:
 
-- 🔭 Currently working on: **Trash Image Classifier** (1600+ images, classical ML pipeline)  
 - ✅ Built:
-
 - •  **Waste management system**
   • **Bengaluru House Price Predictor** (end-to-end regression + Flask app)  
   • **Attendance Management System** (Java Swing + MySQL backend)  
