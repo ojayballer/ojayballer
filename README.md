@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omojire  
 
-🎓 **Computer Science student @ University of Lagos (Year 3)**  
+🎓 **Computer Science student @ University of Lagos (Year 3)** 
 🤖 **Machine Learning Enthusiast** — focusing on applied ML, computer vision & NLP  
 💻 Also experienced in **software development with Java + SQL**  
 
