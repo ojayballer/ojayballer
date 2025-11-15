@@ -2,9 +2,7 @@
 
 🎓 **Computer Science student @ University of Lagos (Year 3)** 
 🤖 **Machine Learning Enthusiast** — focusing on applied ML, computer vision & NLP  
-💻 Also experienced in **software development with Java + SQL**  
 
----
 
 ## 🔍 About Me  
 I learn best by building. here are some of the projects I have built:
@@ -75,6 +73,4 @@ A desktop application built with **Java Swing** and **MySQL**.
 - 📂 [GitHub](https://github.com/ojayballer)  
 - 📧 Email: **omojiremurewa@gmail.com**  
 
----
 
-✨ *“Learning by building — applying ML and software engineering one project at a time.”*  
