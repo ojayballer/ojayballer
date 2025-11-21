@@ -31,7 +31,7 @@
 
 I'm a third year Computer Science student at the University of Lagos, focused on building practical machine learning systems. My approach is simple: learn by doing. Every project I build teaches me something new about how to architect better models, write cleaner code, or solve harder problems.
 
-Right now I'm getting deep into neural networks and their applications. I've moved beyond the basics of supervised learning into understanding how different architectures work under the hood. My work spans computer vision, natural language processing, and everything in between. The goal is to become someone who can design and deploy production grade ML systems that actually solve real problems.
+Right now I'm getting deep into neural networks and their applications. I work across computer vision, natural language processing, and classical ML techniques, focusing on understanding how different architectures actually work under the hood. My projects range from image classifiers and regression models to distributed systems with real time intelligence. The goal is to become someone who can design and deploy production grade ML systems that solve real problems.
 
 <h3>
 	<b> Beyond Code </b>
@@ -79,6 +79,16 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 <table align="center">
 <tr>
 <td width="50%">
+<h3 align="center">CNN From Scratch</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/CNN-from-scratch-numpy-only-" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CNN-from-scratch-numpy-only-&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>Convolutional Neural Network Without Frameworks</strong></p>
+<p>Complete implementation of a CNN using only NumPy. Built convolution layers, pooling operations, backpropagation for CNNs, and forward pass from scratch. Includes detailed explanations of how convolutions work at the mathematical level.</p>
+</div>
+</td>
+<td width="50%">
 <h3 align="center">ECHOLOCK</h3>
 <div align="center">
 <a href="https://github.com/ojayballer/ECHOLOCK" target="_blank">
@@ -88,33 +98,63 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 <p>Real time phishing detection system with distributed threat intelligence sharing. Uses LinearSVC for 91% accuracy classification and Redis pub/sub for network wide threat propagation. Full stack implementation with Flask backend and React frontend.</p>
 </div>
 </td>
+</tr>
+<tr>
 <td width="50%">
-<h3 align="center">Bengaluru House Price Predictor</h3>
+<h3 align="center">CIFAR-10 Neural Network</h3>
 <div align="center">
-<a href="https://github.com/ojayballer" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Bengaluru-House-Price-Prediction&theme=radical&border_color=dc143c" alt="Bengaluru House Price" />
+<a href="https://github.com/ojayballer/CIFAR-10" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CIFAR-10&theme=radical&border_color=dc143c" />
 </a>
-<p><strong>End to End Regression Pipeline</strong></p>
-<p>Complete ML workflow from data cleaning to deployment. Handles outlier detection, feature engineering, and location based price analysis. Deployed as Flask web app with prediction API.</p>
+<p><strong>Image Classification on Complex Dataset</strong></p>
+<p>Implemented neural network architecture for CIFAR-10, a more challenging dataset with 10 classes of 32x32 color images. Explored different network depths, regularization techniques, and optimization strategies to improve accuracy.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Handling Imbalanced Datasets</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>Practical ML Techniques Tutorial</strong></p>
+<p>Comprehensive guide covering techniques for handling imbalanced datasets. Explores SMOTE, class weighting, ensemble methods, and proper evaluation metrics. Tackles a common real world problem in machine learning.</p>
 </div>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Waste Image Classifier</h3>
+<h3 align="center">Neural Network From Scratch</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Computer%20Vision-Project-success?style=for-the-badge" />
-<p><strong>Traditional ML for Image Classification</strong></p>
-<p>Built classifier for 1600+ waste images across 4 categories using traditional ML approaches. Implemented image preprocessing pipeline with grayscale conversion and feature extraction. Compared Logistic Regression and SVM performance.</p>
+<a href="https://github.com/ojayballer/Neural-network-from-scratch" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Neural-network-from-scratch&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>Building NNs Without Libraries</strong></p>
+<p>Single layer neural network implementation using pure NumPy. Understanding backpropagation, gradient descent, and the mathematical foundations of neural networks by building every component from the ground up.</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Student Attendance System</h3>
+<h3 align="center">Bangalore Home Price Prediction</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Java%20Swing-Desktop%20App-blue?style=for-the-badge&logo=java" />
+<a href="https://github.com/ojayballer/bangalore-home-price-prediction" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=bangalore-home-price-prediction&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>End to End Deployment</strong></p>
+<p>Complete ML pipeline from data cleaning to production deployment. Handles outlier detection, feature engineering, and location based price analysis. Deployed as Flask web app with prediction API.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Attendance Management System</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/Attendance-Manager-Java" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Attendance-Manager-Java&theme=radical&border_color=dc143c" />
+</a>
 <p><strong>Desktop Application with MySQL Backend</strong></p>
 <p>Full featured attendance management system built with Java Swing. Implements complete CRUD operations with JDBC for database connectivity. GUI based interface for tracking and managing student records.</p>
 </div>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
