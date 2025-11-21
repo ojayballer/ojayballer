@@ -1,5 +1,5 @@
 <a align="center" href="https://github.com/ojayballer">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Omojire%20Murewa&fontSize=42&fontAlignY=30&desc=Machine%20Learning%20Engineer&descAlignY=51&descAlign=50" width="100%"/> 
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Omojire%20Murewa&fontSize=42&fontAlignY=30&desc=Machine%20Learning%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
 </a>
 
 <p align="left">
@@ -106,7 +106,7 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Trash-image-classifier&theme=radical&border_color=dc143c" />
 </a>
 <p><strong>Classical ML & Feature Engineering</strong></p>
-<p>Waste classification system using Classical Machine Learning algorithms (SVM/Random Forest) instead of Deep Learning. Focuses on feature extraction techniques to achieve efficient classification. Deployed on Render</p>
+<p>Waste classification system using Classical Machine Learning algorithms (SVM/Random Forest) instead of Deep Learning. Focuses on feature extraction techniques to achieve efficient classification. Deployed on Render.</p>
 </div>
 </td>
 <td width="50%">
