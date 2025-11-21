@@ -75,74 +75,41 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 	<b> Featured Projects </b>
 </h3>
 
-<table align="center">
-<tr>
-<td width="50%">
-<h3 align="center">ECHOLOCK</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/ECHOLOCK" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=ECHOLOCK&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Federated Cybersecurity Platform</strong></p>
-<p>Real-time phishing detection system. I engineered the <strong>Federated AI Core</strong> and <strong>Flask Backend</strong>, using LinearSVC for 91% accuracy and Redis pub/sub for network-wide threat propagation.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">CNN From Scratch</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/CNN-from-scratch-numpy-only-" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CNN-from-scratch-numpy-only-&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Deep Learning Without Frameworks</strong></p>
-<p>Complete implementation of a CNN using only NumPy. Built convolution layers, pooling operations, backpropagation, and forward pass from scratch to demonstrate mastery of the underlying math.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Trash Image Classifier</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/Trash-image-classifier" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Trash-image-classifier&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Classical ML & Feature Engineering</strong></p>
-<p>Waste classification system using Classical Machine Learning algorithms (SVM/Random Forest) instead of Deep Learning. Focuses on feature extraction techniques to achieve efficient classification. Deployed on Render.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Bangalore Home Price</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/bangalore-home-price-prediction" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=bangalore-home-price-prediction&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>End-to-End ML Deployment</strong></p>
-<p>Complete pipeline from data cleaning to production. Handles outlier detection, feature engineering, and location-based price analysis. Deployed as a Flask web app with a prediction API.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Handling Imbalanced Data</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Practical Data Science Guide</strong></p>
-<p>Comprehensive tutorial on solving class imbalance. Explores SMOTE, class weighting, ensemble methods, and evaluation metrics. Solves a common real-world industry problem.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">CIFAR-10 Neural Network</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/CIFAR-10" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CIFAR-10&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Complex Image Classification</strong></p>
-<p>Optimized neural network for 10-class image recognition. Explored deep architectures and regularization techniques for high accuracy.</p>
-</div>
-</td>
-</tr>
-</table>
+### [ECHOLOCK](https://github.com/ojayballer/ECHOLOCK)
+**Federated Cybersecurity Platform**
+> A decentralized phishing detection system. I engineered the **Federated AI Core** and **Flask Backend**, using LinearSVC for 91% accuracy and Redis pub/sub for network-wide threat propagation.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### [CNN From Scratch](https://github.com/ojayballer/CNN-from-scratch-numpy-only-)
+**Deep Learning Without Frameworks**
+> Complete implementation of a CNN using only NumPy. Built convolution layers, pooling operations, backpropagation, and forward pass from scratch to demonstrate mastery of the underlying math.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### [Trash Image Classifier](https://github.com/ojayballer/Trash-image-classifier)
+**Classical ML & Feature Engineering**
+> Waste classification system using Classical Machine Learning algorithms (SVM/Random Forest) instead of Deep Learning. Focuses on feature extraction techniques to achieve efficient classification on edge devices.
+>
+> ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+### [Bangalore Home Price](https://github.com/ojayballer/bangalore-home-price-prediction)
+**End-to-End ML Deployment**
+> Complete pipeline from data cleaning to production. Handles outlier detection, feature engineering, and location-based price analysis. Deployed as a Flask web app with a prediction API.
+>
+> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### [Handling Imbalanced Data](https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-)
+**Practical Data Science Guide**
+> Comprehensive tutorial on solving class imbalance. Explores SMOTE, class weighting, ensemble methods, and evaluation metrics. Solves a common real-world industry problem.
+>
+> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### [CIFAR-10 Neural Network](https://github.com/ojayballer/CIFAR-10)
+**Complex Image Classification**
+> Optimized neural network for 10-class image recognition. Explored deep architectures and regularization techniques for high accuracy on complex datasets.
+>
+> ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
