@@ -1,5 +1,5 @@
 <a align="center" href="https://github.com/ojayballer">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Omojire%20Murewa&fontSize=42&fontAlignY=30&desc=Machine%20Learning%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Omojire%20Murewa&fontSize=42&fontAlignY=30&desc=Machine%20Learning%20Engineer&descAlignY=51&descAlign=50" width="100%"/> 
 </a>
 
 <p align="left">
