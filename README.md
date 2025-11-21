@@ -14,13 +14,13 @@
 ---
 
 <p align="center">
- 	<a href="https://github.com/ojayballer">
-  	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ojayballer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=dc143c"/> 	
- 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojayballer&layout=compact&langs_count=8&theme=radical&border_color=dc143c"/> 
+ 	<a href="https://github.com/ojayballer">
+  	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ojayballer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=dc143c"/> 	
+ 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojayballer&layout=compact&langs_count=8&theme=radical&border_color=dc143c"/> 
 </p>
 
 <p>
-  <img width="250" align='left' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="250" align='left' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p>
@@ -49,6 +49,9 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 
 <div align="center" style="display: inline_block">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
@@ -58,16 +61,12 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
 ---
@@ -79,82 +78,68 @@ Outside of building models and debugging pipelines, I'm a massive Liverpool supp
 <table align="center">
 <tr>
 <td width="50%">
-<h3 align="center">CNN From Scratch</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/CNN-from-scratch-numpy-only-" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CNN-from-scratch-numpy-only-&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Convolutional Neural Network Without Frameworks</strong></p>
-<p>Complete implementation of a CNN using only NumPy. Built convolution layers, pooling operations, backpropagation for CNNs, and forward pass from scratch. Includes detailed explanations of how convolutions work at the mathematical level.</p>
-</div>
-</td>
-<td width="50%">
 <h3 align="center">ECHOLOCK</h3>
 <div align="center">
 <a href="https://github.com/ojayballer/ECHOLOCK" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=ECHOLOCK&theme=radical&border_color=dc143c" />
 </a>
 <p><strong>Federated Cybersecurity Platform</strong></p>
-<p>Real time phishing detection system with distributed threat intelligence sharing. Uses LinearSVC for 91% accuracy classification and Redis pub/sub for network wide threat propagation. Full stack implementation with Flask backend and React frontend.</p>
+<p>Real-time phishing detection system. I engineered the <strong>Federated AI Core</strong> and <strong>Flask Backend</strong>, using LinearSVC for 91% accuracy and Redis pub/sub for network-wide threat propagation.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">CNN From Scratch</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/CNN-from-scratch-numpy-only-" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CNN-from-scratch-numpy-only-&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>Deep Learning Without Frameworks</strong></p>
+<p>Complete implementation of a CNN using only NumPy. Built convolution layers, pooling operations, backpropagation, and forward pass from scratch to demonstrate mastery of the underlying math.</p>
 </div>
 </td>
 </tr>
 <tr>
+<td width="50%">
+<h3 align="center">Trash Image Classifier</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/Trash-image-classifier" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Trash-image-classifier&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>Classical ML & Feature Engineering</strong></p>
+<p>Waste classification system using Classical Machine Learning algorithms (SVM/Random Forest) instead of Deep Learning. Focuses on feature extraction techniques to achieve efficient classification. Deployed on Render</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Bangalore Home Price</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/bangalore-home-price-prediction" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=bangalore-home-price-prediction&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>End-to-End ML Deployment</strong></p>
+<p>Complete pipeline from data cleaning to production. Handles outlier detection, feature engineering, and location-based price analysis. Deployed as a Flask web app with a prediction API.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Handling Imbalanced Data</h3>
+<div align="center">
+<a href="https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-&theme=radical&border_color=dc143c" />
+</a>
+<p><strong>Practical Data Science Guide</strong></p>
+<p>Comprehensive tutorial on solving class imbalance. Explores SMOTE, class weighting, ensemble methods, and evaluation metrics. Solves a common real-world industry problem.</p>
+</div>
+</td>
 <td width="50%">
 <h3 align="center">CIFAR-10 Neural Network</h3>
 <div align="center">
 <a href="https://github.com/ojayballer/CIFAR-10" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=CIFAR-10&theme=radical&border_color=dc143c" />
 </a>
-<p><strong>Image Classification on Complex Dataset</strong></p>
-<p>Implemented neural network architecture for CIFAR-10, a more challenging dataset with 10 classes of 32x32 color images. Explored different network depths, regularization techniques, and optimization strategies to improve accuracy.</p>
+<p><strong>Complex Image Classification</strong></p>
+<p>Optimized neural network for 10-class image recognition. Explored deep architectures and regularization techniques for high accuracy.</p>
 </div>
-</td>
-<td width="50%">
-<h3 align="center">Handling Imbalanced Datasets</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Practical ML Techniques Tutorial</strong></p>
-<p>Comprehensive guide covering techniques for handling imbalanced datasets. Explores SMOTE, class weighting, ensemble methods, and proper evaluation metrics. Tackles a common real world problem in machine learning.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Neural Network From Scratch</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/Neural-network-from-scratch" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Neural-network-from-scratch&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Building NNs Without Libraries</strong></p>
-<p>Single layer neural network implementation using pure NumPy. Understanding backpropagation, gradient descent, and the mathematical foundations of neural networks by building every component from the ground up.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Bangalore Home Price Prediction</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/bangalore-home-price-prediction" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=bangalore-home-price-prediction&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>End to End Deployment</strong></p>
-<p>Complete ML pipeline from data cleaning to production deployment. Handles outlier detection, feature engineering, and location based price analysis. Deployed as Flask web app with prediction API.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Attendance Management System</h3>
-<div align="center">
-<a href="https://github.com/ojayballer/Attendance-Manager-Java" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ojayballer&repo=Attendance-Manager-Java&theme=radical&border_color=dc143c" />
-</a>
-<p><strong>Desktop Application with MySQL Backend</strong></p>
-<p>Full featured attendance management system built with Java Swing. Implements complete CRUD operations with JDBC for database connectivity. GUI based interface for tracking and managing student records.</p>
-</div>
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
@@ -186,7 +171,7 @@ Working with convolutional networks, recurrent architectures, and transformer mo
 	<a href="mailto:omojiremurewa@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/ojayballer">
+	<a href="https://www.linkedin.com/in/omojire-kuseju-159159357">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://github.com/ojayballer">
