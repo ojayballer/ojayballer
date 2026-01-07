@@ -6,8 +6,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ojayballer&color=6366f1&style=flat-square)](https://github.com/ojayballer)
 [![GitHub followers](https://img.shields.io/github/followers/ojayballer?style=flat-square&color=6366f1)](https://github.com/ojayballer)
 
-**[Portfolio](#featured-work)** • **[Contact](#connect)**
-
 </div>
 
 ---
@@ -37,11 +35,6 @@ Rebuilt convolutional neural networks using JAX primitives. No framework magic, 
 Decentralized phishing detection system with distributed intelligence. Engineered the Federated AI Core and Flask backend. LinearSVC achieving 91% accuracy with Redis pub/sub for network wide threat propagation.
 
 `Python` `Redis` `Flask` `Distributed Systems` `Cybersecurity`
-
-### [CNN from Scratch using NumPy](https://github.com/ojayballer/CNN-from-scratch-numpy-only-)
-Complete CNN implementation without any ML frameworks. Built every layer, operation, and training loop manually to prove mastery of underlying mathematics. Forward pass, backprop, pooling, all from scratch.
-
-`Python` `NumPy` `Neural Networks` `Mathematical Foundations`
 
 ### [Bangalore Home Price Predictor](https://github.com/ojayballer/bangalore-home-price-prediction)
 End to end ML pipeline covering data cleaning, feature engineering, outlier detection, model training, and deployment. Full stack Flask application with prediction API deployed to production.
@@ -123,7 +116,6 @@ I'm always down to discuss ML architectures, optimization techniques, or the lat
 
 <div align="center">
 
-**Building foundations. Mastering systems.**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer)
 
