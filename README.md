@@ -1,6 +1,6 @@
 <div align="center">
 
-# OMOJIRE KUSEJU
+# OMOJIRE 
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ojayballer&color=6366f1&style=flat-square)](https://github.com/ojayballer)
