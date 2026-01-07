@@ -2,7 +2,6 @@
 
 # OMOJIRE KUSEJU
 
-### Machine Learning Engineer | Systems Architect | Foundation Builder
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ojayballer&color=6366f1&style=flat-square)](https://github.com/ojayballer)
 [![GitHub followers](https://img.shields.io/github/followers/ojayballer?style=flat-square&color=6366f1)](https://github.com/ojayballer)
@@ -25,32 +24,7 @@ Right now I'm deep in building neural networks from absolute scratch. No shortcu
 
 ---
 
-## What I'm Building
 
-```python
-class CurrentJourney:
-    def __init__(self):
-        self.phase = "Foundation Mastery"
-        self.current_projects = [
-            "RNN from scratch (JAX)",
-            "LSTM architecture (JAX)", 
-            "GRU networks (JAX)",
-            "Transformer model (JAX)"
-        ]
-        self.next_level = [
-            "GPU/CUDA optimization",
-            "Hardware accelerated ML",
-            "Computational deep learning",
-            "Game dev and robotics"
-        ]
-    
-    def philosophy(self):
-        return "Build it. Break it. Understand it. Master it."
-```
-
-**Why JAX?** Learning functional programming paradigms, automatic differentiation internals, and preparing for GPU level optimization work. Starting simple with just JAX.numpy, gradually incorporating advanced features as I earn them.
-
----
 
 ## Featured Work
 
@@ -149,7 +123,7 @@ I'm always down to discuss ML architectures, optimization techniques, or the lat
 
 <div align="center">
 
-
+**Building foundations. Mastering systems.**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer)
 
