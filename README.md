@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 OMOJIRE KUSEJU
+# OMOJIRE KUSEJU
 
 ### Machine Learning Engineer | Systems Architect | Foundation Builder
 
@@ -13,19 +13,19 @@
 
 ---
 
-## 🎯 THE MISSION
+## The Mission
 
-I don't just use frameworks — I build them to understand them. Currently a third-year Computer Science student at the University of Lagos, obsessed with understanding how ML systems actually work under the hood. Every project is intentional: designed to master fundamentals, not just add to a portfolio.
+I don't just use frameworks. I build them to understand them. Currently a third year Computer Science student at the University of Lagos, focused on understanding how ML systems actually work under the hood. Every project is intentional, designed to master fundamentals rather than just add to a portfolio.
 
-Right now, I'm deep in the trenches building neural networks from absolute scratch. No shortcuts. No black boxes. Just pure mathematics, gradient flows, and raw compute. The goal? True proficiency in foundations before touching production systems.
+Right now I'm deep in building neural networks from absolute scratch. No shortcuts, no black boxes. Just pure mathematics, gradient flows, and raw compute. The goal is true proficiency in foundations before touching production systems.
 
-**Current Focus**: Architecting RNNs, LSTMs, and Transformers in JAX from first principles → Moving into computational deep learning, GPU optimization, and hardware-level ML engineering.
+**Current Focus**: Architecting RNNs, LSTMs, and Transformers in JAX from first principles, then moving into computational deep learning, GPU optimization, and hardware level ML engineering.
 
-**Future Trajectory**: Game development, robotics, and hardware systems. Building things that exist at the intersection of intelligence and physical reality.
+**Future Direction**: Game development, robotics, and hardware systems. Building things that exist at the intersection of intelligence and physical reality.
 
 ---
 
-## 🔥 WHAT I'M BUILDING
+## What I'm Building
 
 ```python
 class CurrentJourney:
@@ -39,74 +39,74 @@ class CurrentJourney:
         ]
         self.next_level = [
             "GPU/CUDA optimization",
-            "Hardware-accelerated ML",
+            "Hardware accelerated ML",
             "Computational deep learning",
-            "Game dev & robotics"
+            "Game dev and robotics"
         ]
     
     def philosophy(self):
         return "Build it. Break it. Understand it. Master it."
 ```
 
-**Why JAX?** Learning functional programming paradigms, automatic differentiation internals, and preparing for GPU-level optimization work. Starting simple (just JAX.numpy), gradually incorporating advanced features as I earn them.
+**Why JAX?** Learning functional programming paradigms, automatic differentiation internals, and preparing for GPU level optimization work. Starting simple with just JAX.numpy, gradually incorporating advanced features as I earn them.
 
 ---
 
-## 💎 FEATURED WORK
+## Featured Work
 
-### **[CNN from Scratch - JAX Implementation](https://github.com/ojayballer/CNN-from-scratch-using-JAX)**
-> Rebuilt convolutional neural networks using JAX primitives. No framework magic — just manual convolution operations, backpropagation, gradient descent, and activation functions. Every line derived from mathematical foundations.
-> 
-> `JAX` `NumPy` `Deep Learning` `Computer Vision`
+### [CNN from Scratch using JAX](https://github.com/ojayballer/CNN-from-scratch-using-JAX)
+Rebuilt convolutional neural networks using JAX primitives. No framework magic, just manual convolution operations, backpropagation, gradient descent, and activation functions. Every line derived from mathematical foundations.
 
-### **[ECHOLOCK - Federated Cybersecurity](https://github.com/ojayballer/ECHOLOCK)**
-> Decentralized phishing detection system with distributed intelligence. Engineered the Federated AI Core and Flask backend. LinearSVC achieving 91% accuracy with Redis pub/sub for network-wide threat propagation.
-> 
-> `Python` `Redis` `Flask` `Distributed Systems` `Cybersecurity`
+`JAX` `NumPy` `Deep Learning` `Computer Vision`
 
-### **[CNN from Scratch - NumPy Only](https://github.com/ojayballer/CNN-from-scratch-numpy-only-)**
-> Complete CNN implementation without any ML frameworks. Built every layer, operation, and training loop manually to prove mastery of underlying mathematics. Forward pass, backprop, pooling — all from scratch.
-> 
-> `Python` `NumPy` `Neural Networks` `Mathematical Foundations`
+### [ECHOLOCK Federated Cybersecurity](https://github.com/ojayballer/ECHOLOCK)
+Decentralized phishing detection system with distributed intelligence. Engineered the Federated AI Core and Flask backend. LinearSVC achieving 91% accuracy with Redis pub/sub for network wide threat propagation.
 
-### **[Bangalore Home Price Predictor](https://github.com/ojayballer/bangalore-home-price-prediction)**
-> End-to-end ML pipeline: data cleaning, feature engineering, outlier detection, model training, and deployment. Full-stack Flask application with prediction API deployed to production.
-> 
-> `AWS` `Flask` `Scikit-Learn` `Feature Engineering` `Deployment`
+`Python` `Redis` `Flask` `Distributed Systems` `Cybersecurity`
 
-### **[Trash Image Classifier](https://github.com/ojayballer/Trash-image-classifier)**
-> Classical ML approach to waste classification. Feature extraction techniques with SVM/Random Forest instead of deep learning — optimized for edge devices and resource-constrained environments.
-> 
-> `Scikit-Learn` `Computer Vision` `Feature Engineering` `Edge ML`
+### [CNN from Scratch using NumPy](https://github.com/ojayballer/CNN-from-scratch-numpy-only-)
+Complete CNN implementation without any ML frameworks. Built every layer, operation, and training loop manually to prove mastery of underlying mathematics. Forward pass, backprop, pooling, all from scratch.
 
-### **[Handling Imbalanced Datasets - Tutorial](https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-)**
-> Comprehensive guide solving real-world class imbalance problems. SMOTE, class weighting, ensemble methods, and proper evaluation metrics for skewed distributions.
-> 
-> `Jupyter` `Pandas` `Data Science` `Tutorial`
+`Python` `NumPy` `Neural Networks` `Mathematical Foundations`
+
+### [Bangalore Home Price Predictor](https://github.com/ojayballer/bangalore-home-price-prediction)
+End to end ML pipeline covering data cleaning, feature engineering, outlier detection, model training, and deployment. Full stack Flask application with prediction API deployed to production.
+
+`AWS` `Flask` `Scikit-Learn` `Feature Engineering` `Deployment`
+
+### [Trash Image Classifier](https://github.com/ojayballer/Trash-image-classifier)
+Classical ML approach to waste classification. Feature extraction techniques with SVM/Random Forest instead of deep learning, optimized for edge devices and resource constrained environments.
+
+`Scikit-Learn` `Computer Vision` `Feature Engineering` `Edge ML`
+
+### [Handling Imbalanced Datasets Tutorial](https://github.com/ojayballer/HANDLING-IMBALANCED-DATASET-IN-MACHINE-LEARNING-A-TUTORIAL-)
+Comprehensive guide solving real world class imbalance problems. Covers SMOTE, class weighting, ensemble methods, and proper evaluation metrics for skewed distributions.
+
+`Jupyter` `Pandas` `Data Science` `Tutorial`
 
 ---
 
-## 🛠️ TECH STACK
+## Tech Stack
 
-### **Core Languages**
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **ML/DL Frameworks**
+### ML and DL Frameworks
 ![JAX](https://img.shields.io/badge/JAX-0081C9?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **Data Science**
+### Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### **Tools & Deployment**
+### Tools and Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,7 +114,7 @@ class CurrentJourney:
 
 ---
 
-## 📊 GITHUB STATS
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojayballer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&bg_color=0d1117"/>
@@ -123,62 +123,19 @@ class CurrentJourney:
 
 ---
 
-## 🌍 BEYOND THE CODE
+## Beyond the Code
 
-When I'm not architecting neural networks or debugging backpropagation flows, you'll find me:
+When I'm not architecting neural networks or debugging backpropagation flows, you'll find me following Liverpool FC. Been a supporter for 8 years through every high and low. YNWA.
 
-**⚽ Following Liverpool FC** — 8 years of loyalty through every high and low. YNWA.
+I watch a lot of anime, mainly Naruto and other classics. Also into shows like Breaking Bad and Game of Thrones. There's something about great storytelling that always pulls me in, whether it's on screen or in the patterns hidden in data.
 
-**🎌 Watching anime** — Naruto hit different. Currently rewatching the classics and exploring new series.
-
-**📺 Binging peak television** — Breaking Bad, Game of Thrones, and anything with compelling storytelling. Great narratives teach you how to structure systems.
-
-**🎮 Developing interest in game dev** — Starting to explore the intersection of AI, physics engines, and interactive experiences.
-
-**🤖 Fascinated by robotics & hardware** — The next frontier. Intelligence meeting physical reality.
-
-There's something about understanding systems — whether it's a neural network, a football tactic, or a perfectly written scene — that just clicks. Pattern recognition works everywhere.
+Recently I've been getting interested in game development and robotics. The idea of building intelligent systems that interact with the physical world is fascinating. That's where I see myself heading after I master these foundations.
 
 ---
 
-## 🎯 CURRENT ROADMAP
+## Connect
 
-```
-┌─────────────────────────────────────────────────────┐
-│ Phase 1: Foundation Mastery (IN PROGRESS)          │
-├─────────────────────────────────────────────────────┤
-│ ✅ CNN from scratch (NumPy)                        │
-│ ✅ CNN from scratch (JAX)                          │
-│ 🔄 RNN from scratch (JAX)                          │
-│ ⏳ LSTM architecture (JAX)                         │
-│ ⏳ GRU networks (JAX)                              │
-│ ⏳ Transformer model (JAX)                         │
-└─────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────┐
-│ Phase 2: Hardware & Optimization (NEXT)            │
-├─────────────────────────────────────────────────────┤
-│ • GPU/CUDA programming                             │
-│ • Computational deep learning                       │
-│ • Hardware-accelerated ML systems                   │
-│ • Performance optimization & profiling              │
-└─────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────┐
-│ Phase 3: Applied Intelligence (FUTURE)             │
-├─────────────────────────────────────────────────────┤
-│ • Game development + AI integration                 │
-│ • Robotics & embedded systems                       │
-│ • Real-time intelligent systems                     │
-│ • Physical AI applications                          │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 CONNECT
-
-I'm always down to discuss ML architectures, optimization techniques, or the latest Liverpool match. Let's build something peak together.
+I'm always down to discuss ML architectures, optimization techniques, or the latest Liverpool match. Let's build something together.
 
 <div align="center">
 
@@ -192,9 +149,7 @@ I'm always down to discuss ML architectures, optimization techniques, or the lat
 
 <div align="center">
 
-### *"I don't just use frameworks — I build them to understand them."*
 
-**Building foundations. Mastering systems. Creating peak.**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer)
 
